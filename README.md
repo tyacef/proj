@@ -29,9 +29,9 @@ Exemple d'un objet produit:
 		},
 
 
-1- Lancer Mongo en précisant la database : mongo-data
+1- Lancer Mongo en précisant la database : mongo-data (à partir de la racine du projet)
 
-2- Lancer Node
+2- Lancer Node (nodemon à partir du dossier e-shop-back)
 
-3- Lancer angular
+3- Lancer angular (ng serve à partir du dossier e-shop)
 
