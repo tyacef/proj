@@ -29,7 +29,9 @@ Exemple d'un objet produit:
 		},
 
 
-
 1- Lancer Mongo en précisant la database : mongo-data
-2- Lancer Node 
-3- Lancer angular 
+
+2- Lancer Node
+
+3- Lancer angular
+
